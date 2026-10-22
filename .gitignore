@@ -1,0 +1,13 @@
+# Maven and Java build output
+target/
+out/
+*.class
+*.log
+
+# Local IntelliJ IDEA settings
+.idea/
+*.iml
+
+# Operating system files
+.DS_Store
+Thumbs.db
